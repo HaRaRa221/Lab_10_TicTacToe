@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class TicTacToeProto {
+import java.util.Scanner;
+
+public class TicTacToeProto
+{
+
 }
+
